@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muneerkhan07
-- 👀 I’m interested in Sowftware Devloper
-- 🌱 I’m currently learning Java Script
+- 👀 I’m interested in Data Science and Machine learning
+- 🌱 I have just completed  Python,Sql,Excel,Power Bi,
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
