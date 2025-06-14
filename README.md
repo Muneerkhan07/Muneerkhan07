@@ -32,7 +32,6 @@
 |--------|-------|---------------|
 | 📦 **Amazon Sales Dashboard** | Power BI | Analyze Amazon sales trends and top categories |
 | 🏬 **Vrinda Store Sales** | Excel | Visualize sales across time, categories & regions |
-| 📈 **Monthly Performance Tracker** | Power BI + Excel | Tracks and compares monthly KPIs |
 
 ---
 
@@ -41,7 +40,7 @@
 <p>
   <a href="https://www.linkedin.com/in/muneer-khan0786/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
+  </a><br>
   <a href="mailto:niyazimuneer0786@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
   </a>
@@ -49,19 +48,23 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muneerkhan0786&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneerkhan0786&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muneerkhan0786&show_icons=true&theme=radical" />
 </p>
 
----
-
-### 🔥 Activity Graph
+## 🧠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=muneerkhan0786&theme=react-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneerkhan0786&layout=compact&theme=radical" />
 </p>
+
+## 🔥 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Muneerkhan0786&theme=react-dark" />
+</p>
+
 
 
