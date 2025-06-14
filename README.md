@@ -68,7 +68,7 @@
 ## 🔥 Activity Graph (Using Vercel - Works Better!)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muneerkhan0786&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muneerkhan07&theme=react-dark" />
 </p>
 
 
