@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @Muneerkhan07
-- 👀 I’m interested in Data Science and Machine learning
-- 🌱 I have just completed  Python,Sql,Excel,Power Bi,
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Muneer Khan
 
-<!---
-Muneerkhan07/Muneerkhan07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I'm a Data Analyst who loves working with Power BI, Python, SQL, and Excel.
+
+## 🛠️ Skills I Know:
+- 📊 Power BI
+- 🐍 Python
+- 🗃️ SQL
+- 📈 Excel
+
+## 🚀 My Projects:
+- **Vrinda Store Sales Analysis** → Built using Excel
+- **Amazon Sales Dashboard** → Built using Power BI
+
+## 📞 How to Contact Me:
+- 📧 Email: niyazimuneer0786@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/muneer-khan0786/)
+
