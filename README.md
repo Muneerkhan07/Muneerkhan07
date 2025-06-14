@@ -9,9 +9,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently working on **interactive dashboards** in Power BI  
-- 🌱 Learning **Advanced Excel** and **Machine Learning**
-- 🎯 Passionate about turning data into **actionable insights**
+
+- 🔍 I’m a data analyst enthusiast with skills in Power BI, SQL, Python, and Excel
+- 📊 I love analyzing data and building interactive dashboards
+- 🛠️ Tools I use: Power BI, Excel, SQL, Python
 
 ---
 
@@ -64,10 +65,10 @@
 </p>
 
 
-## 🔥 Activity Graph
+## 🔥 Activity Graph (Using Vercel - Works Better!)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Muneerkhan07&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muneerkhan0786&theme=react-dark" />
 </p>
 
 
