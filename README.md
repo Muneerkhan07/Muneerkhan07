@@ -51,19 +51,19 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muneerkhan0786&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muneerkhan07&show_icons=true&theme=radical" />
 </p>
 
 ## 🧠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneerkhan0786&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneerkhan07&layout=compact&theme=radical" />
 </p>
 
 ## 🔥 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Muneerkhan0786&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Muneerkhan07&theme=react-dark" />
 </p>
 
 
