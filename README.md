@@ -1,73 +1,81 @@
-<!-- 👋 Introduction Section -->
-<h1 align="center">Hi 👋, I'm Muneer Khan</h1>
-<h3 align="center">A Passionate Data Analyst | Power BI Developer | Python Enthusiast</h3>
-
----
-
-### 🧠 **About Me**
-- 🔭 I’m currently working on **Machine Learning & Deep learning**
-- 🌱 I’m learning **Advanced SQL, DAX, and Data Modelling**
-- 👯 I’m open to collaborate on **Data Analytics & Visualization Projects**
-- 💬 Ask me about **Python, SQL, Excel, Power BI, and Dashboard Design**
-- 📫 How to reach me: **niyazimuneer0786@gmail.com**
-- ⚡ Fun fact: I enjoy transforming raw data into visual stories 📊
-
----
-
-### 🛠️ **Tech Stack**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,powerbi,mysql,git,github,vscode,excel" />
-</p>
-
----
-
-### 📊 **GitHub Stats**
+<h1 align="center">🚀 I'm Muneer Khan</h1>
+<h3 align="center">Aspiring Data Analyst | Power BI 💛 | Python 🐍 | SQL 💾 | Excel 📊</h3>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Muneerkhan07&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muneerkhan07&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;I+love+analyzing+data+%F0%9F%94%AC;Let's+connect+and+grow+%F0%9F%92%9A" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📂 **Featured Projects**
+## 👨‍💻 About Me
 
-#### 🛍️ [Retail Sale Analysis](https://github.com/Muneerkhan07/Retail-Sale-Analysis)
-> A Python and Power BI based analysis project focusing on sales performance, profit trends, and category-wise insights.
-
-#### 🧾 [Amazon Sales Dashboard](https://github.com/Muneerkhan07/Amazon-Sales-Dashboard)
-> A Power BI dashboard analyzing Amazon’s product category performance, revenue metrics, and customer trends.
-
-#### 🧮 [Vrinda Store Sales Analysis](https://github.com/Muneerkhan07/Vrinda-Store-Sales)
-> An Excel-based sales analysis project identifying revenue drivers, top products, and business growth KPIs.
-
-#### ✈️ [Live Airport Baggage Discharge Monitoring Dashboard](https://github.com/Muneerkhan07/Live-Airport-Baggage-Discharge-Monitoring-Dashboard)
-> A real-time Power BI dashboard integrated with SQL Server to monitor baggage handling system performance.
+- 🎓 Final-year Computer Science student passionate about *data storytelling*
+- 🔍 Skilled in Power BI, SQL, Python, and Excel
+- 📊 I enjoy building dashboards that uncover patterns & drive decisions
+- 🎯 Currently learning advanced DAX and data automation in Python
 
 ---
 
-### 🚀 **Current Focus**
-- Automating **Power BI Report Generation** using SQL Server  
-- Building **Database Health Monitoring Dashboards**  
-- Learning **Machine Learning for Predictive Analytics**
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+   <img src="https://img.shields.io/badge/Power%20BI%20Report%20Builder-FF9900?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSRS-0078D7?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
 
 ---
 
-### 🌐 **Connect With Me**
+## 🚀 Projects I'm Proud Of
 
-<p align="left">
-  <a href="mailto:muneerkhan0707@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+| 📁 Project Name | 🧰 Tools Used | 📌 Description |
+|----------------|---------------|----------------|
+| **[Amazon Sales Dashboard](https://github.com/Muneerkhan07/amazon-sales-analysis)** | Power BI | Visualizes Amazon sales by category, region, and KPIs |
+| **[Vrinda Store Sales](https://github.com/Muneerkhan07/vrinda-store-analysis)** | Excel | Insights on store revenue trends, using Pivot Tables and Charts |
+| **[Live-Airport-Baggage-Discharge-Monitoring-Dashboard](https://github.com/Muneerkhan07/Live-Airport-Baggage-Discharge-Monitoring-Dashboard)** |Power Bi Report Builder,SSRS,SQL,Sql Server,MAQ,DAX, | This project is a Power BI dashboard integrated with SQL Server for live monitoring of baggage discharge at airports. |
+| **[Retail Sale Analysis](https://github.com/Muneerkhan07/Retail-Sale-Analysis-Dashboard)**|Python,Pandas,Sql,Jupyter notebook,SQLite,Power Bi| To analyze retail sales data and uncover insights on business performance, profitability, and customer trends using a combination of data engineering and visualization tools.|
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muneerkhan07&show_icons=true&theme=radical" />
+</p>
+
+---
+
+## 🔥 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muneerkhan07&theme=react-dark" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muneer-khan0786/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/muneer-khan-07" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Muneerkhan07" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="mailto:niyazimuneer0786@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<h4 align="center">✨ “Turning Data Into Insights & Insights Into Actions.” ✨</h4>
+<p align="center">✨ Thank you for visiting my GitHub! Let’s grow together in the world of data! 📈</p>
+---
+
+## 🏆 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muneerkhan07&style=flat-square&color=blue" alt="Visitor Count" />
+</p>
+
+
