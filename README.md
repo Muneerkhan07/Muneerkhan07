@@ -21,7 +21,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-   <img src="https://img.shields.io/badge/Power%20BI%20Report%20Builder-FF9900?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI%20Report%20Builder-FF9900?style=for-the-badge&logo=powerbi&logoColor=white" />
   <img src="https://img.shields.io/badge/SSRS-0078D7?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
@@ -33,10 +33,10 @@
 
 | 📁 Project Name | 🧰 Tools Used | 📌 Description |
 |----------------|---------------|----------------|
-| **[Amazon Sales Dashboard](https://github.com/Muneerkhan07/amazon-sales-analysis)** | Power BI | Visualizes Amazon sales by category, region, and KPIs |
-| **[Vrinda Store Sales](https://github.com/Muneerkhan07/vrinda-store-analysis)** | Excel | Insights on store revenue trends, using Pivot Tables and Charts |
-| **[Live-Airport-Baggage-Discharge-Monitoring-Dashboard](https://github.com/Muneerkhan07/Live-Airport-Baggage-Discharge-Monitoring-Dashboard)** |Power Bi Report Builder,SSRS,SQL,Sql Server,MAQ,DAX, | This project is a Power BI dashboard integrated with SQL Server for live monitoring of baggage discharge at airports. |
-| **[Retail Sale Analysis](https://github.com/Muneerkhan07/Retail-Sale-Analysis-Dashboard)**|Python,Pandas,Sql,Jupyter notebook,SQLite,Power Bi| To analyze retail sales data and uncover insights on business performance, profitability, and customer trends using a combination of data engineering and visualization tools.|
+| **[Amazon Sales Dashboard](https://github.com/Muneerkhan07/Amazon-Sales-Analysis)** | Power BI | Visualizes Amazon sales by category, region, and KPIs |
+| **[Vrinda Store Sales](https://github.com/Muneerkhan07/Vrinda-Store-Analysis)** | Excel | Insights on store revenue trends using Pivot Tables and Charts |
+| **[Live Airport Baggage Discharge Monitoring Dashboard](https://github.com/Muneerkhan07/Live-Airport-Baggage-Discharge-Monitoring-Dashboard)** | Power BI Report Builder, SSRS, SQL Server, MAQ, DAX | A Power BI dashboard integrated with SQL Server for live monitoring of baggage discharge at airports |
+| **[Retail Sale Analysis](https://github.com/Muneerkhan07/Retail-Sale-Analysis-Dashboard)** | Python, Pandas, SQL, Jupyter Notebook, SQLite, Power BI | Analyzes retail sales data to uncover insights on business performance, profitability, and customer trends |
 
 ---
 
@@ -56,6 +56,14 @@
 
 ---
 
+## 🏆 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muneerkhan07&style=flat-square&color=blue" alt="Visitor Count" />
+</p>
+
+---
+
 ## 🤝 Let's Connect
 
 <p align="center">
@@ -70,12 +78,3 @@
 ---
 
 <p align="center">✨ Thank you for visiting my GitHub! Let’s grow together in the world of data! 📈</p>
----
-
-## 🏆 Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muneerkhan07&style=flat-square&color=blue" alt="Visitor Count" />
-</p>
-
-
