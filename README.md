@@ -5,11 +5,11 @@
 ---
 
 ### 🧠 **About Me**
-- 🔭 I’m currently working on **Retail Sales Analysis & Dashboard Automation**
+- 🔭 I’m currently working on **Machine Learning & Deep learning**
 - 🌱 I’m learning **Advanced SQL, DAX, and Data Modelling**
 - 👯 I’m open to collaborate on **Data Analytics & Visualization Projects**
 - 💬 Ask me about **Python, SQL, Excel, Power BI, and Dashboard Design**
-- 📫 How to reach me: **muneerkhan0707@gmail.com**
+- 📫 How to reach me: **niyazimuneer0786@gmail.com**
 - ⚡ Fun fact: I enjoy transforming raw data into visual stories 📊
 
 ---
