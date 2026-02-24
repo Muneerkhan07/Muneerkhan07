@@ -1,5 +1,3 @@
-
-You said:
 <h1 align="center">🚀 I'm Muneer Khan</h1>
 <h3 align="center">Aspiring Data Analyst | Power BI 💛 | Python 🐍 | SQL 💾 | Excel 📊</h3>
 
@@ -17,12 +15,6 @@ You said:
 - 🎯 Currently learning advanced DAX and data automation in Python
 
 ---
-## Languages and Tools:
-<p> <img src="https://skillicons.dev/icons?i=python,mysql,postgres,java,oracle,plsql" /></p> 
-<p> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /> </p>
 
 ## 🛠 Tech Stack
 
