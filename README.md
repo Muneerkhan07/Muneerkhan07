@@ -13,11 +13,8 @@
 📫 How to reach me:  
 👉 niyazimuneer0786@gmail.com  
 
-📄 Know about my experience:  <p>
-  <a href="https://www.linkedin.com/in/muneer-khan0786/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+📄 Know about my experience: "https://www.linkedin.com/in/muneer-khan0786/"
+
 
 ⚡ Fun fact: I prefer building automated systems over manual reporting  
 
@@ -25,7 +22,10 @@
 
 ## Connect with me:
 
-[LinkedIn](https://www.linkedin.com/in/muneer-khan0786/)  
+  <a href="https://www.linkedin.com/in/muneer-khan0786/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p> 
 
 ---
 
