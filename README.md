@@ -9,32 +9,31 @@ Transforming operational data into automated, decision-driven reporting systems.
 
 ## 👨‍💼 Professional Summary
 
-Data Analyst with hands-on experience in SQL-based reporting systems and live operational dashboards.  
-Focused on business intelligence, reporting automation, and performance monitoring solutions.
+Data Analyst with hands-on experience in SQL-based reporting systems and live operational dashboards.
 
-- Experienced in SQL Server, Power BI, and Report Builder
-- Strong in KPI design, DAX, and data modeling
-- Skilled in building structured reporting systems for operational environments
-- Passionate about scalable dashboard architecture and automation
+- Skilled in SQL Server, Power BI, Report Builder, and DAX
+- Focused on KPI-driven dashboard systems
+- Experience in reporting automation and operational monitoring
+- Strong understanding of structured data modeling
 
 ---
 
 ## 🛠 Core Skills
 
-### 📊 Business Intelligence & Reporting
-- Power BI (Advanced DAX, Data Modeling, KPI Frameworks)
+### 📊 Business Intelligence
+- Power BI (Advanced DAX, Data Modeling)
 - Power BI Report Builder (Paginated Reports)
-- SSRS Reporting
+- SSRS
 
-### 🗄 Database & Query Optimization
+### 🗄 Database & Querying
 - SQL Server
 - Oracle SQL & PL/SQL
-- Complex Joins, CTEs, Window Functions
-- Query Performance Optimization
+- CTEs, Window Functions, Complex Joins
+- Query Optimization Basics
 
-### 🐍 Programming & Data Automation
-- Python (Pandas, Data Cleaning, Automation Scripts)
-- Excel (Advanced Formulas, Pivot Tables, Dashboarding)
+### 🐍 Programming
+- Python (Pandas, Data Cleaning)
+- Excel (Advanced Formulas, Pivot Tables)
 
 ---
 
@@ -43,47 +42,57 @@ Focused on business intelligence, reporting automation, and performance monitori
 ### 🔹 Live Airport Baggage Discharge Monitoring System  
 **Tools:** Power BI Report Builder, SQL Server, DAX  
 
-- Developed a live monitoring dashboard integrated with SQL Server  
-- Automated operational report generation  
-- Designed KPI-based tracking for real-time baggage discharge monitoring  
-- Reduced manual tracking effort through structured reporting automation  
+🔗 Project Link:  
+https://github.com/Muneerkhan07/Live-Airport-Baggage-Discharge-Monitoring-Dashboard  
+
+- Built a live monitoring dashboard integrated with SQL Server  
+- Designed KPI-based tracking system  
+- Automated report generation for operational visibility  
 
 ---
 
-## 📁 Other Data Projects
+## 📁 Data Projects
 
 ### 🔹 Retail Sales Performance Analysis  
 **Tools:** Python, SQL, Power BI  
 
-- Cleaned and transformed retail datasets using Pandas  
-- Built profitability and performance dashboards  
-- Identified revenue trends and category-level insights  
+🔗 Project Link:  
+https://github.com/Muneerkhan07/Retail-Sale-Analysis-Dashboard  
+
+- Cleaned and transformed datasets using Pandas  
+- Built performance dashboards  
+- Performed profitability and category analysis  
 
 ---
 
 ### 🔹 Amazon Sales Dashboard  
 **Tools:** Power BI  
 
-- Designed interactive KPI dashboard for revenue and regional analysis  
-- Created drill-down visuals for performance tracking  
+🔗 Project Link:  
+https://github.com/Muneerkhan07/Amazon-Sales-Analysis  
+
+- Created KPI-focused dashboard  
+- Regional and category-level performance tracking  
 
 ---
 
 ### 🔹 Vrinda Store Sales Analysis  
 **Tools:** Excel  
 
-- Built Pivot-based revenue tracking dashboards  
-- Performed trend analysis using structured Excel modeling  
+🔗 Project Link:  
+https://github.com/Muneerkhan07/Vrinda-Store-Analysis  
+
+- Built Pivot-based revenue dashboards  
+- Performed structured sales trend analysis  
 
 ---
 
 ## 🎯 Areas of Focus
 
-- Operational Analytics
-- Reporting Automation
-- Business KPI Systems
-- Data Modeling & Dashboard Architecture
-- SQL-Based Enterprise Reporting
+- Operational Analytics  
+- Reporting Automation  
+- KPI Dashboard Architecture  
+- SQL-Based Reporting Systems  
 
 ---
 
@@ -101,5 +110,5 @@ Focused on business intelligence, reporting automation, and performance monitori
 ---
 
 <p align="center">
-Focused on building systems — not just dashboards.
+Focused on building structured reporting systems — not just dashboards.
 </p>
