@@ -1,71 +1,93 @@
-<h1 align="center">🚀 I'm Muneer Khan</h1>
-<h3 align="center">Aspiring Data Analyst | Power BI 💛 | Python 🐍 | SQL 💾 | Excel 📊</h3>
+<h1 align="center">Muneer Khan</h1>
+<h3 align="center">Data Analyst | Business Intelligence & Reporting Automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;I+love+analyzing+data+%F0%9F%94%AC;Let's+connect+and+grow+%F0%9F%92%9A" alt="Typing SVG" />
+Transforming operational data into automated, decision-driven reporting systems.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💼 Professional Summary
 
-- 🎓 Final-year Computer Science student passionate about *data storytelling*
-- 🔍 Skilled in Power BI, SQL, Python, and Excel
-- 📊 I enjoy building dashboards that uncover patterns & drive decisions
-- 🎯 Currently learning advanced DAX and data automation in Python
+Data Analyst with hands-on experience in SQL-based reporting systems and live operational dashboards.  
+Focused on business intelligence, reporting automation, and performance monitoring solutions.
 
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI%20Report%20Builder-FF9900?style=for-the-badge&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSRS-0078D7?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle%20PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
+- Experienced in SQL Server, Power BI, and Report Builder
+- Strong in KPI design, DAX, and data modeling
+- Skilled in building structured reporting systems for operational environments
+- Passionate about scalable dashboard architecture and automation
 
 ---
 
-## 🚀 Projects I'm Proud Of
+## 🛠 Core Skills
 
-| 📁 Project Name | 🧰 Tools Used | 📌 Description |
-|----------------|---------------|----------------|
-| **[Amazon Sales Dashboard](https://github.com/Muneerkhan07/Amazon-Sales-Analysis)** | Power BI | Visualizes Amazon sales by category, region, and KPIs |
-| **[Vrinda Store Sales](https://github.com/Muneerkhan07/Vrinda-Store-Analysis)** | Excel | Insights on store revenue trends using Pivot Tables and Charts |
-| **[Live Airport Baggage Discharge Monitoring Dashboard](https://github.com/Muneerkhan07/Live-Airport-Baggage-Discharge-Monitoring-Dashboard)** | Power BI Report Builder, SSRS, SQL Server, MAQ, DAX | A Power BI dashboard integrated with SQL Server for live monitoring of baggage discharge at airports |
-| **[Retail Sale Analysis](https://github.com/Muneerkhan07/Retail-Sale-Analysis-Dashboard)** | Python, Pandas, SQL, Jupyter Notebook, SQLite, Power BI | Analyzes retail sales data to uncover insights on business performance, profitability, and customer trends |
+### 📊 Business Intelligence & Reporting
+- Power BI (Advanced DAX, Data Modeling, KPI Frameworks)
+- Power BI Report Builder (Paginated Reports)
+- SSRS Reporting
 
----
+### 🗄 Database & Query Optimization
+- SQL Server
+- Oracle SQL & PL/SQL
+- Complex Joins, CTEs, Window Functions
+- Query Performance Optimization
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muneerkhan07&show_icons=true&theme=radical" />
-</p>
-
----
-
-## 🔥 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muneerkhan07&theme=react-dark" />
-</p>
+### 🐍 Programming & Data Automation
+- Python (Pandas, Data Cleaning, Automation Scripts)
+- Excel (Advanced Formulas, Pivot Tables, Dashboarding)
 
 ---
 
-## 🏆 Visitor Count
+## 🚀 Featured Enterprise Project
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muneerkhan07&style=flat-square&color=blue" alt="Visitor Count" />
-</p>
+### 🔹 Live Airport Baggage Discharge Monitoring System  
+**Tools:** Power BI Report Builder, SQL Server, DAX  
+
+- Developed a live monitoring dashboard integrated with SQL Server  
+- Automated operational report generation  
+- Designed KPI-based tracking for real-time baggage discharge monitoring  
+- Reduced manual tracking effort through structured reporting automation  
 
 ---
 
-## 🤝 Let's Connect
+## 📁 Other Data Projects
+
+### 🔹 Retail Sales Performance Analysis  
+**Tools:** Python, SQL, Power BI  
+
+- Cleaned and transformed retail datasets using Pandas  
+- Built profitability and performance dashboards  
+- Identified revenue trends and category-level insights  
+
+---
+
+### 🔹 Amazon Sales Dashboard  
+**Tools:** Power BI  
+
+- Designed interactive KPI dashboard for revenue and regional analysis  
+- Created drill-down visuals for performance tracking  
+
+---
+
+### 🔹 Vrinda Store Sales Analysis  
+**Tools:** Excel  
+
+- Built Pivot-based revenue tracking dashboards  
+- Performed trend analysis using structured Excel modeling  
+
+---
+
+## 🎯 Areas of Focus
+
+- Operational Analytics
+- Reporting Automation
+- Business KPI Systems
+- Data Modeling & Dashboard Architecture
+- SQL-Based Enterprise Reporting
+
+---
+
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muneer-khan0786/">
@@ -78,4 +100,6 @@
 
 ---
 
-<p align="center">✨ Thank you for visiting my GitHub! Let’s grow together in the world of data! 📈</p>
+<p align="center">
+Focused on building systems — not just dashboards.
+</p>
