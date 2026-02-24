@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/SSRS-0078D7?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle%20PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
 ---
